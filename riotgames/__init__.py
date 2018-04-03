@@ -1,0 +1,1 @@
+from .riotgames import app
